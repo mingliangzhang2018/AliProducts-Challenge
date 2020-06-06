@@ -10,7 +10,7 @@
 This repository is developed using python **3.5.2** on Ubuntu **16.04.5 LTS**. The CUDA and CUDNN version is **9.0** and **7.1.3** respectively. For AiProducts experiments, we use **four NVIDIA 1080ti GPU cards** for training and testing. Other platforms or GPU cards are not fully tested.
 
 
-## Pretrain models for AiProducts
+## Pretrain models
 
 We provide the pretrain backbone of [resnet50](https://download.pytorch.org/models/resnet50-19c8e357.pth) or [resnet101](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth) trained on ImageNet , which will put in the fold of **./pretrain_models**.
 And we also provide the best model of resnest50 [BaiduYun link](https://pan.baidu.com/s/1mVNEcZgLeb3tdiT0HXvQ6w), keyword: ax5a.
@@ -60,7 +60,7 @@ AiProducts
 	[
         {
 		"category_id": 0, 
-		"fpath": "/home2/zml/data/AliProduct/val/00000/1849756.jpg"
+		"fpath": "/val/00000/1849756.jpg"
         },
         ...
     ]

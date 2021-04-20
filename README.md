@@ -71,4 +71,4 @@ AiProducts
 ```
 ## Acknowledge
 
-Thanks for the help of my partners Wei Baole, Yang Yirong. Please let me know if you encounter any issues(my email zhangmingliang2018@ia.ac.cn).
+Thanks for the help of my partners Baole Wei, Yirong Yang. Please let me know if you encounter any issues(my email zhangmingliang2018@ia.ac.cn).
